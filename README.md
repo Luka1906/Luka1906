@@ -53,12 +53,11 @@ I spend a lot of time playing and following tennis, collecting toys and designer
 ## 📚 Currently Exploring
 
 - AI tools and workflows for modern web development
-- Scalable frontend architecture
-- Advanced React and TypeScript patterns
+- Frontend architecture and performance optimization
 
 ---
 
 ## 📫 Links
 
 - Portfolio: [lukamatovic.netlify.app](https://lukamatovic.netlify.app)
-- LinkedIn: [https://www.linkedin.com/in/lukamatovic/]
+- LinkedIn: [linkedin.com/in/lukamatovic](https://www.linkedin.com/in/lukamatovic/)
